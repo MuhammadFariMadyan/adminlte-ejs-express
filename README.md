@@ -14,5 +14,5 @@ All Others feature WIP
 
 ## Done
 
-- Page Login on http://localhost:3000/login
-- Page Dahboard V1 on http://localhost:3000/dashboardv1
+- Page Login on https://adminlte-ejs-express.herokuapp.com/login
+- Page Dashboard V1 on https://adminlte-ejs-express.herokuapp.com/dashboardv1
